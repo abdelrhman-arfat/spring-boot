@@ -9,6 +9,7 @@ target/
 !src/main/resources/templates/
 !src/main/resources/static/
 
+
 ### STS ###
 .apt_generated
 .classpath
